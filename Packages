@@ -1,0 +1,14 @@
+Package: com.joshua.darkcarbon
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Joshua Wheeler <joshuawhe@proton.me>
+Depends:  com.anemonetheming.anemone | com.spark.snowboard
+Filename: ./DarkCarbon.deb
+Size: 5564
+MD5sum: cf5b6eb8347d03f26159b7d0694d0698
+SHA1: e69ba6caabc58a786f2a785008e7efbd92185ccd
+SHA256: 4f07b41066fb4db8ba9dd5faf288a1163ca801de6c2a8f7c603f6159517cbdc2
+Section: Themes
+Description: Makes default iOS apps darker.
+Author: Joshua Wheeler <joshuawhe@proton.me>
+Name: Dark Carbon
