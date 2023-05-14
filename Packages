@@ -5,9 +5,9 @@ Maintainer: Joshua Wheeler <joshuawhe@proton.me>
 Depends:  com.anemonetheming.anemone | com.spark.snowboard
 Filename: ./DarkCarbon.deb
 Size: 5564
-MD5sum: cf5b6eb8347d03f26159b7d0694d0698
-SHA1: e69ba6caabc58a786f2a785008e7efbd92185ccd
-SHA256: 4f07b41066fb4db8ba9dd5faf288a1163ca801de6c2a8f7c603f6159517cbdc2
+MD5sum: 6c93452fea257e97c4514e88e66ad60c
+SHA1: 643566c3a5ee8e177a597d0a2dd689f2fa2689da
+SHA256: aa8603140694a5ed806994e03f83f6a89df594dd68ea49295f74d152cfca4ef0
 Section: Themes
 Description: Makes default iOS apps darker.
 Author: Joshua Wheeler <joshuawhe@proton.me>
