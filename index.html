@@ -15,8 +15,15 @@
    color: white;
    text-align: center;
 }
+    
+<script>
+    openCydia() {
+      window.open("cydia://url/https://cydia.saurik.com/api/share#?source=https://deb-universe.zapto.org/")
+    }
+</script>
+      
 </style>
 <div class="footer">
-<p>Footer</p>
+  <Button OnClick:openCydia()>Cydia</Button>
 </div>
 </body>
